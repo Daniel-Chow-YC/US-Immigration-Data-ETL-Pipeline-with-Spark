@@ -8,7 +8,10 @@ The project follows the follow steps (these steps can be viewed in the notebook 
 * Step 2: Explore and Assess the Data
 * Step 3: Define the Data Model
 * Step 4: Run ETL to Model the Data
-* Step 5: Complete Project Write Up
+* Step 5: Run sample queries on final data model
+
+Sample queries ran against the final data model (after running etl.py) can be viewed at the end of US_Immigration_Data.ipynb
+
 
 ## Running the project:
 To run the ETL pipeline:
